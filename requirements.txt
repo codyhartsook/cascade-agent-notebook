@@ -46,4 +46,4 @@ bqplot
 
 nats-py>=2.6.0"
 
-langchain
+cascade_node_sdk==0.1.0
